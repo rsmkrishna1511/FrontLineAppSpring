@@ -1,4 +1,4 @@
-package com.stepin.rest.webservices.restfulwebservices;
+package com.stepin.rest.webservices.restfulwebservices.helloworld;
 
 public class HelloBean {
 	
